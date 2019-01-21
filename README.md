@@ -1,2 +1,2 @@
-# 2ed
+# 1ed
 about Wutong
